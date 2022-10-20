@@ -1,0 +1,7 @@
+TODO:
+  ☐ flags
+     ☐ --help (optional)
+     ☐ --out <fileName> (optional; default="utf8.pdf")
+     ☐ --font <fileName.ttf> (optional; load custom font)
+  ☐ performance
+     ☐ Chunk into multiple buffers, utilizing channels
